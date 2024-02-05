@@ -30,5 +30,5 @@
             with:
               token: ${{ secrets.ACCESS_TOKEN }}
               repository-name: BravoNiceCatch/bravonicecatch.github.io
-              BRANCH: master
+              BRANCH: main
               FOLDER: public
